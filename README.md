@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bahadır Hakan Yüksel! 👋</h1>
+<h1 align="center">Hi, I'm Bahadır 👋</h1>
 <h3 align="center">Full-Stack Developer & AI Builder</h3>
 
 <p align="center">
@@ -46,8 +46,8 @@
 ### 🚀 Featured Projects
 
 * **[GLOSS](https://github.com/bhyuksel/gloss) (GitHub LinkedIn Open Source System):** An AI-powered platform that collects data via the GitHub API to automatically generate LLM-based LinkedIn content from project activities.
-* **[Data Masking Library](https://github.com/bhyuksel/veri-maskeleme):** A data security-focused modular Python library for masking personal data (names, IDs, emails, etc.) with configurable rules.
-* **[PostgreSQL Editor](https://github.com/bhyuksel/postgres-editor):** A web-based database editor built with Next.js and REST APIs, offering in-browser SQL querying, result visualization, and schema management.
+* **[Data Masking Library](https://github.com/bhyuksel/data-masking-library):** A data security-focused modular Python library for masking personal data (names, IDs, emails, etc.) with configurable rules.
+* **[PostgreSQL Editor](https://github.com/bhyuksel/postgresql-editor):** A web-based database editor built with Next.js and REST APIs, offering in-browser SQL querying, result visualization, and schema management.
 
 ---
 
